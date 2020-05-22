@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>技术极客</title>
+  
+  <subtitle>一个做研发的技术【大头】</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://lvxin1986.github.io/"/>
+  <updated>2020-05-20T12:18:00.569Z</updated>
+  <id>https://lvxin1986.github.io/</id>
+  
+  <author>
+    <name>吕信</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>post8</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/post8/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/post8/</id>
+    <published>2020-05-20T12:18:00.000Z</published>
+    <updated>2020-05-20T12:18:00.569Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post7</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/post7/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/post7/</id>
+    <published>2020-05-20T12:17:56.000Z</published>
+    <updated>2020-05-20T12:17:56.792Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post6</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/post6/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/post6/</id>
+    <published>2020-05-20T12:17:53.000Z</published>
+    <updated>2020-05-20T12:17:53.162Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post5</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/post5/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/post5/</id>
+    <published>2020-05-20T12:17:46.000Z</published>
+    <updated>2020-05-20T12:17:46.874Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post4</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/post4/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/post4/</id>
+    <published>2020-05-20T12:17:43.000Z</published>
+    <updated>2020-05-20T12:17:43.035Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post3</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/post3/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/post3/</id>
+    <published>2020-05-20T12:17:39.000Z</published>
+    <updated>2020-05-20T12:17:39.424Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post2</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/post2/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/post2/</id>
+    <published>2020-05-20T12:17:36.000Z</published>
+    <updated>2020-05-20T12:17:36.384Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post1</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/post1/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/post1/</id>
+    <published>2020-05-20T12:17:32.000Z</published>
+    <updated>2020-05-20T12:22:52.103Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+      <category term="分类1" scheme="https://lvxin1986.github.io/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+    
+      <category term="标签1" scheme="https://lvxin1986.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>article title</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/article-title/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/article-title/</id>
+    <published>2020-05-20T08:22:54.000Z</published>
+    <updated>2020-05-20T08:22:54.495Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/hello-world/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/hello-world/</id>
+    <published>2020-05-20T08:08:16.731Z</published>
+    <updated>2020-05-20T08:08:16.731Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello blog</title>
+    <link href="https://lvxin1986.github.io/2020/05/20/hello-blog/"/>
+    <id>https://lvxin1986.github.io/2020/05/20/hello-blog/</id>
+    <published>2020-05-20T07:55:56.000Z</published>
+    <updated>2020-05-20T08:08:16.731Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;this is my first blog article&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
